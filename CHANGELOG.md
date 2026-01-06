@@ -7,3 +7,4 @@
 # docs: add contribution guidelines
 # chore: add Makefile with common commands
 # feat: add batch processing mode
+# fix: handle file permissions on Linux

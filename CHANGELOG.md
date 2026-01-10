@@ -29,3 +29,4 @@
 # feat: add initial project scaffolding
 # docs: add API reference
 # fix: resolve circular import issue
+# feat: add batch processing mode

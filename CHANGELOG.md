@@ -30,3 +30,4 @@
 # docs: add API reference
 # fix: resolve circular import issue
 # feat: add batch processing mode
+# fix: handle edge case in input validation

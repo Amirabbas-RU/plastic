@@ -5,3 +5,5 @@
 # docs: add quick start guide
 # feat: add progress bar for long operations
 # docs: add contribution guidelines
+# chore: add Makefile with common commands
+# feat: add batch processing mode

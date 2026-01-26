@@ -13,3 +13,5 @@
 # fix: resolve circular import issue
 # feat: add config file parser
 # fix: handle edge case in input validation
+# feat: add logging with structured output
+# feat: add logging with structured output

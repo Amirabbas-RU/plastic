@@ -4,3 +4,4 @@
 # chore: add .env.example file
 # docs: add quick start guide
 # feat: add progress bar for long operations
+# docs: add contribution guidelines

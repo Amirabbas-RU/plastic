@@ -18,3 +18,4 @@
 # chore: add .env.example file
 # chore: add Makefile with common commands
 # feat: add batch processing mode
+# feat: add initial project scaffolding

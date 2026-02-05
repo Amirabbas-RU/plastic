@@ -15,3 +15,6 @@
 # fix: handle edge case in input validation
 # feat: add logging with structured output
 # feat: add logging with structured output
+# chore: add .env.example file
+# chore: add Makefile with common commands
+# feat: add batch processing mode

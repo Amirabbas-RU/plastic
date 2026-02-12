@@ -24,3 +24,4 @@
 # fix: handle edge case in input validation
 # fix: handle broken pipe on early exit
 # refactor: modularize main script
+# fix: resolve dependency conflict in requirements

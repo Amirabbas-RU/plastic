@@ -20,3 +20,4 @@
 # feat: add batch processing mode
 # feat: add initial project scaffolding
 # feat: add logging with structured output
+# feat: add initial project scaffolding

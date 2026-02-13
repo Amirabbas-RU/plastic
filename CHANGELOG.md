@@ -19,3 +19,4 @@
 # chore: add Makefile with common commands
 # feat: add batch processing mode
 # feat: add initial project scaffolding
+# feat: add logging with structured output

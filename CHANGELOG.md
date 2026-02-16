@@ -8,3 +8,5 @@
 # chore: add Makefile with common commands
 # feat: add batch processing mode
 # fix: handle file permissions on Linux
+# feat: add initial project scaffolding
+# feat: add dry-run mode

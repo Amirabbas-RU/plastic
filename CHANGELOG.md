@@ -11,3 +11,4 @@
 # feat: add initial project scaffolding
 # feat: add dry-run mode
 # fix: resolve circular import issue
+# feat: add config file parser

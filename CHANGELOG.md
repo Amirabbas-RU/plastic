@@ -34,3 +34,4 @@
 # docs: add contribution guidelines
 # fix: handle UnicodeDecodeError in file loading
 # fix: resolve dependency conflict in requirements
+# fix: handle edge case in input validation

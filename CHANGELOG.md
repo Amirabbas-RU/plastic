@@ -21,3 +21,4 @@
 # feat: add initial project scaffolding
 # feat: add logging with structured output
 # feat: add initial project scaffolding
+# fix: handle edge case in input validation

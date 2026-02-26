@@ -3,3 +3,4 @@
 # fix: set default config if file missing
 # chore: add .env.example file
 # docs: add quick start guide
+# feat: add progress bar for long operations

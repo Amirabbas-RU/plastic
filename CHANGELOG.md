@@ -27,3 +27,4 @@
 # fix: resolve dependency conflict in requirements
 # refactor: modularize main script
 # feat: add initial project scaffolding
+# docs: add API reference
